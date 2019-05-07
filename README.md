@@ -6,4 +6,4 @@ Requires command. Type "/8 location" in chat to toggle.
 
 Made by AlteriaX
 
-Updated by TerableCoder
+Updated by TerableCoder / Nekonekoo

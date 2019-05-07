@@ -1,0 +1,16 @@
+{
+    "disableAutoUpdate": false,
+    "disabled": false,
+    "name": "locationinfo",
+    "author": "AlteriaX | TerableCoder | Nekonekoo",
+    "description": "Show your current location (zone/xyz)",
+    "version": "07.05.2019",
+    "servers": ["https://raw.githubusercontent.com/PatrickSantoZZ/Locationinfo/master/"],
+    "options": {
+        "niceName": "locationinfo",
+        "guiName": "locationinfo",
+        "reloadable": false
+    },
+    "dependencies": {},
+    "conflicts": []
+}
